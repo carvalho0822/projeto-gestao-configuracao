@@ -7,3 +7,11 @@ def apresentar_projeto():
     print("Alterações registradas com sucesso!")
 
 apresentar_projeto()
+
+# Nova funcionalidade do projeto
+
+def verificar_versao():
+    print("Sistema de gerenciamento de configuração")
+    print("Nova funcionalidade adicionada com sucesso!")
+
+verificar_versao()
